@@ -1,1 +1,1 @@
-** The tutorial focuses on how to integration spring security into ldap for authentication 
+Sample spring app to test ldap authetication
