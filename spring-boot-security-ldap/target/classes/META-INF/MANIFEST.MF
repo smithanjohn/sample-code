@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: smithanjohn
+Build-Jdk: 11.0.7
+Implementation-Title: spring-security-ldap-example
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.samaddico
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-securit
+ y-ldap-example/
+Created-By: Maven Integration for Eclipse
+
